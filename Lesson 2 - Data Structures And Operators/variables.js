@@ -1,4 +1,4 @@
-let name = "Nick";  //can be changed later
+let lastName = "Petersen";  //can be changed later
 const pi = 3.14;    //cannot be changed later
 var age = 31;       //outdated way of declaring and should be avoided
 
